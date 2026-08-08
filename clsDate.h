@@ -1,12 +1,9 @@
 //
 //  clsDate.h
-//  YANALxcode
+// 
 //
 //  Created by yanal haj hussien on 08/08/2026.
 //
-
-//ProgrammingAdivces.com
-//Mohammed Abu-Hadhoud
 #pragma warning(disable : 4996)
 #pragma once
 
